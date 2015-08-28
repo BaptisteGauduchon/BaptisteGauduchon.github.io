@@ -7,7 +7,7 @@ pygments: true
 markdown: kramdown
 
 title: Baptiste Gauduchon
-description: Stylish Jekyll Theme
+description: coding & stuff
 disqus: dbyll-ghost # add disqus short name here
 author:
   name: Baptiste Gauduchon
@@ -16,7 +16,7 @@ author:
  # twitter: WonderBaptiste
  # pinterest: asd123
   linkedin: baptistegauduchon
-  bio: coding & stuff
+  bio: Software Engineer
  # email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml

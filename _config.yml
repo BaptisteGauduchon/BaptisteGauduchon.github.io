@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 pygments: true
 markdown: kramdown
 
-title: dbyll
+title: Baptiste Gauduchon
 description: Stylish Jekyll Theme
 disqus: dbyll-ghost # add disqus short name here
 author:
@@ -23,4 +23,4 @@ rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: http://dbtek.github.io/dbyll
+BASE_PATH: http://baptistegauduchon.github.io/dbyll-test/

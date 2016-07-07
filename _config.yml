@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 #disqus: dbyll
 #google_analytics: dbyll
-title: Baptiste Gauduchon
+title: Sylverfall
 
 defaults:
   -
@@ -21,10 +21,10 @@ author:
   name: Baptiste Gauduchon
   email: baptiste.gauduchon@gmail.com
   github: bgauduch
-  twitter: Sylverfall Blog
+  twitter: bgauduch
 #  pinterest: asd123
   linkedin: baptistegauduchon
-  bio: Personnal geek and dev stuffs
+  bio: Personal geek & dev stuffs
 #  email_md5: 726351295ec82e145928582f595aa3aa
 
 #rss_path: feed.xml
